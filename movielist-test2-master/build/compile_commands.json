@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/paro/Projekty/movielist-test2/build",
+  "command": "/usr/bin/c++  -I/home/paro/Projekty/movielist-test2/include -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/movie.dir/src/main.cpp.o -c /home/paro/Projekty/movielist-test2/src/main.cpp",
+  "file": "/home/paro/Projekty/movielist-test2/src/main.cpp"
+},
+{
+  "directory": "/home/paro/Projekty/movielist-test2/build",
+  "command": "/usr/bin/c++  -I/home/paro/Projekty/movielist-test2/include -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/moviebase.dir/src/Movie.cpp.o -c /home/paro/Projekty/movielist-test2/src/Movie.cpp",
+  "file": "/home/paro/Projekty/movielist-test2/src/Movie.cpp"
+},
+{
+  "directory": "/home/paro/Projekty/movielist-test2/build",
+  "command": "/usr/bin/c++  -I/home/paro/Projekty/movielist-test2/include -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/moviebase.dir/src/MovieDatabase.cpp.o -c /home/paro/Projekty/movielist-test2/src/MovieDatabase.cpp",
+  "file": "/home/paro/Projekty/movielist-test2/src/MovieDatabase.cpp"
+},
+{
+  "directory": "/home/paro/Projekty/movielist-test2/build",
+  "command": "/usr/bin/c++  -I/home/paro/Projekty/movielist-test2/include -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/moviebase.dir/src/Manager.cpp.o -c /home/paro/Projekty/movielist-test2/src/Manager.cpp",
+  "file": "/home/paro/Projekty/movielist-test2/src/Manager.cpp"
+},
+{
+  "directory": "/home/paro/Projekty/movielist-test2/build",
+  "command": "/usr/bin/c++  -I/home/paro/Projekty/movielist-test2/include -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/moviebase.dir/src/Users.cpp.o -c /home/paro/Projekty/movielist-test2/src/Users.cpp",
+  "file": "/home/paro/Projekty/movielist-test2/src/Users.cpp"
+},
+{
+  "directory": "/home/paro/Projekty/movielist-test2/build",
+  "command": "/usr/bin/c++  -I/home/paro/Projekty/movielist-test2/include -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/moviebase.dir/src/MovieUsers.cpp.o -c /home/paro/Projekty/movielist-test2/src/MovieUsers.cpp",
+  "file": "/home/paro/Projekty/movielist-test2/src/MovieUsers.cpp"
+},
+{
+  "directory": "/home/paro/Projekty/movielist-test2/build",
+  "command": "/usr/bin/c++  -I/home/paro/Projekty/movielist-test2/include -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/moviebase.dir/src/MovieController.cpp.o -c /home/paro/Projekty/movielist-test2/src/MovieController.cpp",
+  "file": "/home/paro/Projekty/movielist-test2/src/MovieController.cpp"
+},
+{
+  "directory": "/home/paro/Projekty/movielist-test2/build",
+  "command": "/usr/bin/c++  -I/home/paro/Projekty/movielist-test2/include -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/moviebase.dir/src/Watched.cpp.o -c /home/paro/Projekty/movielist-test2/src/Watched.cpp",
+  "file": "/home/paro/Projekty/movielist-test2/src/Watched.cpp"
+},
+{
+  "directory": "/home/paro/Projekty/movielist-test2/build",
+  "command": "/usr/bin/c++  -I/home/paro/Projekty/movielist-test2/include -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/moviebase.dir/src/CurrentlyWatching.cpp.o -c /home/paro/Projekty/movielist-test2/src/CurrentlyWatching.cpp",
+  "file": "/home/paro/Projekty/movielist-test2/src/CurrentlyWatching.cpp"
+},
+{
+  "directory": "/home/paro/Projekty/movielist-test2/build",
+  "command": "/usr/bin/c++  -I/home/paro/Projekty/movielist-test2/include -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/moviebase.dir/src/ToBeWatched.cpp.o -c /home/paro/Projekty/movielist-test2/src/ToBeWatched.cpp",
+  "file": "/home/paro/Projekty/movielist-test2/src/ToBeWatched.cpp"
+},
+{
+  "directory": "/home/paro/Projekty/movielist-test2/build",
+  "command": "/usr/bin/c++  -I/home/paro/Projekty/movielist-test2/include -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/moviebase.dir/src/Admin.cpp.o -c /home/paro/Projekty/movielist-test2/src/Admin.cpp",
+  "file": "/home/paro/Projekty/movielist-test2/src/Admin.cpp"
+},
+{
+  "directory": "/home/paro/Projekty/movielist-test2/build",
+  "command": "/usr/bin/c++  -I/home/paro/Projekty/movielist-test2/include -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/moviebase.dir/src/UserManager.cpp.o -c /home/paro/Projekty/movielist-test2/src/UserManager.cpp",
+  "file": "/home/paro/Projekty/movielist-test2/src/UserManager.cpp"
+},
+{
+  "directory": "/home/paro/Projekty/movielist-test2/build",
+  "command": "/usr/bin/c++  -I/home/paro/Projekty/movielist-test2/include -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/moviebase.dir/src/MenuTextView.cpp.o -c /home/paro/Projekty/movielist-test2/src/MenuTextView.cpp",
+  "file": "/home/paro/Projekty/movielist-test2/src/MenuTextView.cpp"
+}
+]

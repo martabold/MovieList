@@ -1,0 +1,4 @@
+/home/paro/Projekty/movielist-test2/build/CMakeFiles/rebuild_cache.dir
+/home/paro/Projekty/movielist-test2/build/CMakeFiles/edit_cache.dir
+/home/paro/Projekty/movielist-test2/build/CMakeFiles/movie.dir
+/home/paro/Projekty/movielist-test2/build/CMakeFiles/moviebase.dir
